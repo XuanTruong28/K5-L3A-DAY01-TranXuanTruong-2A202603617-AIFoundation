@@ -131,7 +131,7 @@ Các phép tính được thực hiện trên giấy và làm tròn 2 chữ số
 
 | Đại lượng | Kết quả |
 |---|---:|
-| Baseline Accuracy | Cần đối chiếu số lượng Ham và tổng số SMS sau khi bỏ trùng |
+| Baseline Accuracy | 0.87 |
 | Sigmoid(0) | 0.50 |
 | F1 với TP = 80, FP = 20, FN = 40 | 0.73 |
 | Cosine Similarity giữa [1, 2, 0] và [2, 1, 2] | 0.60 |
